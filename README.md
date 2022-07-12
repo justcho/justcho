@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justcho
+- 👋 Hi, I’m justcho
 - 👀 I’m interested in front-end Web developer
 - 🌱 I’m currently learning React，Typescript
 - 📫 How to reach me justcho@163.com
