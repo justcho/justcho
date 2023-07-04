@@ -1,6 +1,6 @@
 - 👋 Hi, I’m justcho
 - 👀 I’m interested in front-end Web developer
-- 🌱 I’m currently learning React，Typescript
+- 🌱 I’m currently learning Vue3，Typescript
 - 📫 How to reach me justcho@163.com
 
 <!---
